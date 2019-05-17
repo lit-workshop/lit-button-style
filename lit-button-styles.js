@@ -14,7 +14,6 @@ class LitButtonStyles extends LitElement {
       <style>
         .btn {
           height: 30px;
-          width: 40px;
           border: 1px solid var(--neutral-color);
           font-size: var(--font-size-small);
           border-radius: 4px;
