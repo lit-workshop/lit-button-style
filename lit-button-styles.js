@@ -1,13 +1,5 @@
 import { LitElement, html } from 'lit-element';
 
-/**
- * `lit-button-styles`
- * 
- *
- * @customElement
- * @polymer
- * @demo demo/index.html
- */
 class LitButtonStyles extends LitElement {
   render() {
     return html`
